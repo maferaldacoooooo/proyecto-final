@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Currículum Vitae - 10 años en el futuro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #0056b3;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .info {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .info p {
+            margin: 5px 0;
+        }
+        .skills, .experience, .education {
+            margin-top: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li {
+            background: #f4f4f4;
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Currículum Vitae - [Tu Nombre]</h1>
+    <p>10 años en el futuro</p>
+</header>
+
+<div class="container">
+    <section class="info">
+        <h2>Información Personal</h2>
+        <p><strong>Nombre:</strong> [Tu Nombre]</p>
+        <p><strong>Correo electrónico:</strong> [tu.email@dominio.com]</p>
+        <p><strong>Teléfono:</strong> [Tu Teléfono]</p>
+        <p><strong>Dirección:</strong> [Tu Dirección]</p>
+    </section>
+
+    <section class="career-goals">
+        <h2>Objetivos Profesionales</h2>
+        <p>En 10 años, me he consolidado como un líder en [tu industria]. He trabajado en proyectos innovadores y de impacto, utilizando mi experiencia en [área de especialización] para impulsar soluciones tecnológicas avanzadas. Mi objetivo es continuar desarrollando mis habilidades en gestión de equipos y contribuyendo al desarrollo de [industria/sector].</p>
+    </section>
+
+    <section class="skills">
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Gestión de proyectos</li>
+            <li>Liderazgo de equipos multidisciplinarios</li>
+            <li>Desarrollo de software avanzado</li>
+            <li>Innovación tecnológica</li>
+            <li>Comunicación efectiva</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>
+                <strong>CEO y Fundador</strong> - [Nombre de tu empresa] (2034 - presente)
+                <p>He dirigido mi propia empresa, especializada en [tu sector], donde hemos alcanzado hitos clave en el desarrollo de productos innovadores, consolidando una posición sólida en el mercado.</p>
+            </li>
+            <li>
+                <strong>Gerente de Innovación</strong> - [Nombre de la empresa anterior] (2029 - 2034)
+                <p>Supervisé equipos de desarrollo de nuevas tecnologías, desde la fase de investigación hasta la implementación de soluciones a gran escala, mejorando la eficiencia de la empresa en un 25%.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h2>Educación</h2>
+        <ul>
+            <li>
+                <strong>Máster en Inteligencia Artificial</strong> - [Nombre de la universidad] (2032)
+            </li>
+            <li>
+                <strong>Licenciatura en Ingeniería Informática</strong> - [Nombre de la universidad] (2025)
+            </li>
+        </ul>
+    </section>
+
+    <section class="languages">
+        <h2>Idiomas</h2>
+        <ul>
+            <li>Español (nativo)</li>
+            <li>Inglés (avanzado)</li>
+            <li>Francés (intermedio)</li>
+        </ul>
+    </section>
+</div>
+
+</body>
+</html>
